@@ -1,0 +1,2 @@
+# Python
+beginning of journey
